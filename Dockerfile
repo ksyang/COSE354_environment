@@ -15,7 +15,7 @@ ADD ./Stage3_Mallory/. /home/$user/Stage3_Mallory/
 ADD ./Stage4_Trent/. /home/$user/Stage4_Trent/
 ADD ./Stage5_Trent/. /home/$user/Stage5_Trent/
 ADD ./Stage6_Trent/. /home/$user/Stage6_Trent/
-ADD ./Stage7_Trent/. /home/$user/Stage7_Trent/
+ADD ./Stage7_Bob/. /home/$user/Stage7_Bob/
 
 WORKDIR /home/$user/
 
